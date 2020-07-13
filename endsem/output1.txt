@@ -1,0 +1,50 @@
+How much Heathens? 3(at least 1)
+How Much Prudes? 2(at least 1)
+
+--------------------- start ----------------------
+
+-- Heathens has arrived
+Prudes: 0				Heathens: 1
+
+HEATHENS PASSED
+Missing 0 Prudes			0 Heathens
+
+[The Heathens are over. Changing the turn to Prudes]
+
+
+-- Prudes arrived
+Prudes: 1				Heathens: 0
+
+PRUDES PASSED
+missing 0 Prudes			0 Heathens
+
+-- Heathens has arrived
+Prudes: 0				Heathens: 1
+[1] > [0] 
+
+More Heathens. Changing the turn to Heathens
+
+
+HEATHENS PASSED
+Missing 0 Prudes			0 Heathens
+
+-- Prudes arrived
+Prudes: 1				Heathens: 0
+
+-- Heathens has arrived
+Prudes: 1				Heathens: 1
+
+HEATHENS PASSED
+Missing 1 Prudes			0 Heathens
+[1] > [0]
+
+[More Prudes. Changing the turn to Prudes]
+
+
+PRUDES PASSED
+missing 0 Prudes			0 Heathens
+
+[The Prudes are over. Changing the turn to Heathens]
+
+
+---------------------- end -----------------------
